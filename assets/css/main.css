@@ -1204,14 +1204,6 @@ section,
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
 
-.info-item a {
-  color: #00d4ff;
-  text-decoration: none;
-}
-
-.info-item a:hover {
-  text-decoration: underline;
-}
 
 /*--------------------------------------------------------------
 # Portfolio Details Section
